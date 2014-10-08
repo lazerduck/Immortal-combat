@@ -1,0 +1,4 @@
+to edit the card list enter the card in the following way leaving only one space between each
+eg: the name, smite, defence, followers, cruelty, forgiveness.
+Also leave one space between cards eg: jesus 1 6 9 2 8 apophis 7 5 3 1 3
+for the images, the default size is 243 by 196 and images must be a jpg type
